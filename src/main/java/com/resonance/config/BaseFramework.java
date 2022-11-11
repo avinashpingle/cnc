@@ -24,7 +24,7 @@ public class BaseFramework {
 		}
 		this.driver = openBrowser(browser);
 		thread.set(this.driver);
-
+		
 		launchUrl(conf.getAppUrl());
 	}
 

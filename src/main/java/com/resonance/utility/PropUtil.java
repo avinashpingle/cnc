@@ -34,7 +34,6 @@ public class PropUtil {
 		try {
 			prop.load(fis);
 			value = prop.getProperty(key);
-			System.out.println("Browser: "+value);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
