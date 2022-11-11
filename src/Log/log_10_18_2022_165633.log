@@ -1,0 +1,6 @@
+2022-Oct-18 16:56:19,302 [main] com.resonance.utility.Keyword 
+  INFO  Chrome is launched successfully
+2022-Oct-18 16:56:30,511 [main] com.resonance.utility.Keyword 
+  INFO  Url is launched successfully
+2022-Oct-18 16:56:32,182 [main] com.resonance.pages.HomePage 
+  INFO  Clicked on Join Meeting link
